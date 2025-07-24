@@ -37,7 +37,7 @@ I made use of the following tools and libraries in order to perform this analysi
 
 My notebooks with a detailed step-by-step approach can be viewed here: 
 
-[Exploratory_Data_Analysis](project/eda_intro.ipynb) 
+[Exploratory_Data_Analysis](eda_intro.ipynb) 
 
 ## Visualising Data
 
