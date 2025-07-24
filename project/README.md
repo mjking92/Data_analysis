@@ -130,6 +130,8 @@ plt.show()
 
 ## 2. What are the skills most in demand from the most popular data roles?
 
+The notebook for this section can be found here [Notebook_skills_counting](skills_counting.ipynb)
+
 In this section, I expand my inquiry to include the top three data roles in NW Europe, which I find to be 'Data Analysts', 'Data Scientists' and 'Data Engineers'. 
 
 I further investigate the top skills requested by recruiters in connection with these three data roles. 
@@ -188,6 +190,9 @@ plt.show()
 
 ## 3. How did in-demand skills trend for Data Analysts?
 
+The notebook for this section can be found here [Notebook_skills_trending](skills_trend.ipynb)
+
+
 In this section, I focus again solely on Data Analysts, and investigate how the most sought skills identified in the previous section trended over time in 2023. 
 
 ### Visualising data 
@@ -228,6 +233,8 @@ for i in range(5):
 ```
 
 ## 4. How well do jobs and skills pay for Data Roles?
+
+The notebook for this section can be found here [Notebook_salary_analysis](salary_analysis.ipynb)
 
 Perhaps the most pressing item to job seekers is salary information. While, regrettedly, many European positions do not include salary details, leading to much smaller samples, what can be divined from the data available is discussed in this section.
 
@@ -311,6 +318,8 @@ plt.show()
 ```
 
 ## 5. What are the optimal skills to learn for a Data Analyst?
+
+The notebook for this section can be found here [Notebook_optimal_skills](optimal_skills.ipynb)
 
 In this final section, I discuss the optimal skills to learn for a Data Analyst in North Western Europe. 
 
