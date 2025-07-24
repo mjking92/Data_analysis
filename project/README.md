@@ -382,9 +382,9 @@ plt.show()
 
 # Conclusions 📋
 
-A summary of the findings of this project are as follows: the programming langauges python and sql are essential skills for data analysts: they are frequently sought in job postings and lead to higher salaries. They also consistently trended as the two top skills throughout 2023. 
+A summary of the findings of this project are as follows: the programming langauges Python and SQL are essential skills for data analysts: they are frequently sought in job postings and lead to higher salaries. They also consistently trended as the two top skills throughout 2023. 
 
-Moreover, python becomes more important still for other data roles, namely for scientists and engineers, although both of these value additional analyst tools and cloud-based technologies not typically requested from data analysts. However, these roles do come with higher average salaries, so data analysts looking to progress may consider pivoting into one of these. 
+Moreover, Python becomes more important still for other data roles, namely for scientists and engineers, although both of these value additional analyst tools and cloud-based technologies not typically requested from data analysts. However, these roles do come with higher average salaries, so data analysts looking to progress may consider pivoting into one of these. 
 
 The insights discerned from this analysis provide real intelligence to all prospective candidates for data roles in the technology sector in North Western Europe. It will also allow for planning and facilitate any and all transitions to this sector.
 
